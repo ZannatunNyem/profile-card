@@ -31,8 +31,8 @@ export default function ProfileCard({ data }) {
           </p>
 
           <p className="text-sm text-gray-300">
-            Lorem ipsum dolor elit. Libero dicta nemo unde et facilis
-            voluptatibus in laboriosam natus!
+            Passionate creator connecting people through stories, visuals, and
+            fresh social media ideas!
           </p>
 
           <p className="flex items-center gap-2">
